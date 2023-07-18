@@ -5,5 +5,7 @@ This template is a great starter if you are looking to use Railway Volumes with 
 
 No more help channel because you can't get volumes to work!
 
+### Setup
+Don't forget to set your CSRF domain in settings.py, otherwise it will not work.
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/AWUIv6)
